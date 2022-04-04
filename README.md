@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Beau Augusto Salgado.
 - 🌱 I’m a junior full stack web developer.
-- - 👀 I’m interested in music and language.
+-  👀 I’m interested in music and language.
 
 
 <!---
