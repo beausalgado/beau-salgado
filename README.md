@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Beau Salgado.
 - 🌱 I’m a junior full stack web developer.
--  👀 I also like to play hte piano.
+-  👀 I also like to play the piano.
 
 
 <!---
