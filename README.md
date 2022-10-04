@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=beausalgado&style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beausalgado&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beausalgado&show_icons=true&theme=dark)
 
 
 <!---
