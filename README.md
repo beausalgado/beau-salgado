@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Beau Salgado.
-- 🌱 I’m a junior full stack web developer.
--  👀 I also like to play the piano.
+👋 Hi, I’m Beau Salgado. I’m a junior full stack web developer and I also like to play the piano.
 
 ![](https://komarev.com/ghpvc/?username=beausalgado&style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beausalgado&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beausalgado&show_icons=true&theme=merko)
 
 
 <!---
