@@ -1,4 +1,4 @@
-👋 Hi, I’m Beau Salgado. I’m a junior web developer and I also like to play the piano.
+👾 Hi, I’m Beau. I’m a junior web developer from the States. Other than coding, I study jazz piano for fun 🎹 and like to write when the muse strikes 🌬️
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beausalgado&include_all_commits=true&show_icons=true&theme=dark)
 
