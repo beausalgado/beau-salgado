@@ -1,4 +1,4 @@
-👾 Hi, I’m Beau. I’m a junior web developer that grew up in the States and now lives in Buenos Aires, Argentina. Other than coding, I study jazz piano for fun 🎹 and like to write when the muse strikes 🌬️
+👾 Hi, I’m Beau. I’m a web developer. Other than coding, I study jazz piano for fun 🎹 and like to write when the muse strikes 🌬️
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beausalgado&include_all_commits=true&show_icons=true&theme=dark)
 
